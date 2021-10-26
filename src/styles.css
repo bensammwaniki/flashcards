@@ -1,0 +1,53 @@
+body a{
+    text-decoration: none;
+    
+}
+.home a.hover{
+    color: black;
+}
+.card1{
+    margin:10px;
+}
+
+/* Home styling */
+.math{
+    background-color: #FFAEAE;
+    color: black;
+}
+.english{
+    background-color: #FF7272;
+    color: black;
+}
+.kiswahili{
+    background-color: #FFCC48;
+    color: black;
+}
+.biology{
+    background-color: #FB8A8A;
+    color: black;
+}
+.physics{
+    background-color: #FFDB80;
+    color: black;
+}
+.chemistry{
+    background-color: #AEFAFF;
+    color: black;
+}
+.cre{
+    background-color: #0B0000;
+    color: white;
+}
+.history{
+    background-color: #211A36;
+    color: white;
+}
+.bs{
+    background-color: #9A4D4D;
+    color: white;
+}
+/* home styless */
+
+.home{
+    display: flex;
+}
